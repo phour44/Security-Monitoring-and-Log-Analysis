@@ -1,1 +1,1 @@
-# Necurity-Monitoring-and-Log-Analysis
+# Security-Monitoring-and-Log-Analysis
